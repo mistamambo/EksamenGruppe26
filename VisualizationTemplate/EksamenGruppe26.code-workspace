@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../../EksamenGruppe26"
+		},
+		{
+			"path": "../../News story 1 with infographics"
+		},
+		{
+			"path": "../../News story 2 with visualization"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "EksamenGruppe26"
+	}
+}

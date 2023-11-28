@@ -1,0 +1,175 @@
+html {
+    scroll-behavior: smooth;
+}
+
+header {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("media/burnedcar.jpg");
+    background-size: cover;
+    background-position: top left;
+}
+
+h1 {
+    font-size: 3rem;
+    color: #fff;
+    text-shadow: 2px 2px 2px #000;
+}
+
+h3 {
+    font-size: 1.5rem;
+    color: white;
+}
+
+.picsign {
+    background-color: rgba(211, 211, 211, 0.5);
+    width: fit-content;
+    padding: 2px;
+    margin-left: 8px;
+}
+
+header a {
+    background: #000;
+    color: #fff;
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 1rem;
+    text-decoration: none;
+}
+
+.mapPic {
+    max-width: 200px;
+    max-height: 250px;
+}
+
+.mapLable {
+    max-width: fit-content;
+    height: auto;
+}
+
+
+.scrollContainer {
+    width: 100vw;
+    min-height: 60vh;
+    overflow: hidden;
+    transition: background-image 2s;
+}
+
+.scrollText {
+    margin: 50vh auto;
+    max-width: 50rem;
+    padding: 1rem;
+    background: rgba(255, 255, 255, 0.8);
+    color: #000;
+}
+
+#introduction {
+    background-image: url("media/nabolag.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#theEnd {
+    background-image: url("media/burnedcar.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#sivilforsvaret {
+    background-image: url("media/sivilforsvaret.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#sivilforsvaretOvelser {
+    background-image: url("media/training1.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#sivilforsvaretOvelser2 {
+    background-image: url("media/treningSjøsikt.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#sivilforsvaretOvelser3 {
+    background-image: url("media/øvelseoppslag.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#hester {
+    background-image: url("media/hester.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#intisar {
+    background-image: url("media/intisarintro.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#intisar2 {
+    background-image: url("media/intisar2.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#intisar3 {
+    background-image: url("media/intisar3.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#nerhet {
+    background-image: url("media/nerhet.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#naboAir {
+    background-image: url("media/nabolagluft.png");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+
+.textSection {
+    max-width: 50rem;
+    margin: 0 auto;
+    display: block;
+    clear: both;
+}
+.alignRight {
+    float: right;
+    margin: 0 0 1rem 1rem;
+}
